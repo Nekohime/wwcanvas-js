@@ -1,0 +1,22 @@
+{
+  "name": "wwcanvas-js",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "generate-sign.js",
+  "scripts": {
+    "lint": "eslint --ext js *.js --fix"
+  },
+  "author": "",
+  "license": "CC0-1.0",
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "clipboardy": "^4.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.3",
+    "eslint": "^8.28.0",
+    "eslint-config-google": "^0.14.0",
+    "eslint-plugin-vue": "^9.8.0"
+  }
+}

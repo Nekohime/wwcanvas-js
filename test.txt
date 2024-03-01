@@ -1,0 +1,8 @@
+This is a {{SIGN_WIDTH}}x{{SIGN_HEIGHT}}px image.
+There are {{SIGN_PIXELS}} pixels in this image!
+The text color is: {{COLOR}}
+The bg color is: {{BGCOLOR}}
+The time is: {{TIME}} on {{DATE}}.
+Alternatively: {{DAY}} {{MONTH}} {{YEAR}}
+
+Happy {{YEAR}}!
